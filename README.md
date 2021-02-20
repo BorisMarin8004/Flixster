@@ -19,7 +19,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 - [Test case 2](https://imgur.com/u1SmSes)
 
 ### Notes
-Describe any challenges encountered while building the app.
+I had issues with annroid API. It was breaking when I was changing it to landscape, but I manage to fix the issue.
 
 ### Open-source libraries used
 
